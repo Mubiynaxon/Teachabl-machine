@@ -1,1 +1,1 @@
-# Teachabl-machine
+# Teachable-machine
